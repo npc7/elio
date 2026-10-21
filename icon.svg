@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FFD27A"/>
+  <circle cx="256" cy="300" r="150" fill="#FFF8EC"/>
+  <path d="M256 330c0-70 10-120 60-170" fill="none" stroke="#4CC27A" stroke-width="22" stroke-linecap="round"/>
+  <path d="M316 160c40-30 90-30 110-10-20 40-70 60-110 10z" fill="#4CC27A"/>
+  <path d="M262 230c-40-40-100-40-120-20 20 40 80 60 120 20z" fill="#6CD48F"/>
+  <text x="256" y="420" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-size="96" font-weight="900" text-anchor="middle" fill="#3B3650">Elio</text>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "name": "Elio · 宝宝的双语小世界",
+  "short_name": "Elio",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#FFF8EC",
+  "theme_color": "#FFD27A",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
